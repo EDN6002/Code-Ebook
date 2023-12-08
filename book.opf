@@ -1,0 +1,19 @@
+<xml version="1.0" encoding="utf-8"?>
+
+<package version="2.0" xmlns="http://www.idpf.org/2007/opf"
+	 unique-identifier="abcdef">
+
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf">
+  <dc:title>Un cœur simple</dc:title>
+  <dc:creator opf:role="aut">Gustave Flaubert</dc:creator>
+  <dc:language>fr-FR</dc:language>
+  <dc:date>1877-04-01</dc:date>
+  <dc:publisher>JeanHugo</dc:publisher>
+  <dc:description>Récit poignant de la vie de Félicité, une servante dévouée, dans la France du XIXe siècle.</dc:description>
+  <dc:subject>Fiction</dc:subject>
+  <dc:type>Text</dc:type>
+  <dc:format>application/epub+zip</dc:format>
+  <dc:rights>Creative Commons BY-SA 4.0</dc:rights>
+  <dc:coverage>France</dc:coverage>
+  <dc:relation>Précédemment publié dans le livre Trois Contes</dc:relation>
+</metadata>
