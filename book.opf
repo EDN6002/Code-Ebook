@@ -1,7 +1,7 @@
 <xml version="1.0" encoding="utf-8"?>
 
 <package version="2.0" xmlns="http://www.idpf.org/2007/opf"
-	 unique-identifier="abcdef">
+	 unique-identifier="uncoeur">
 
 <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf">
   <dc:title>Un cœur simple</dc:title>
@@ -13,7 +13,8 @@
   <dc:subject>Fiction</dc:subject>
   <dc:type>Text</dc:type>
   <dc:format>application/epub+zip</dc:format>
-  <dc:rights>Creative Commons BY-SA 4.0</dc:rights>
+  <dc:rights>License ABU Version 1.1, Août 1999. Copyright (C) 1999 Association de Bibliophiles Universels. Pour plus d'informations, visitez http://abu.cnam.fr/. Cette œuvre est soumise à la licence ABU.</dc:rights>
   <dc:coverage>France</dc:coverage>
   <dc:relation>Précédemment publié dans le livre Trois Contes</dc:relation>
+  <dc:contributor>Joël Surcouf</dc:contributor>
 </metadata>
